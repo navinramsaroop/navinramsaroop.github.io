@@ -49,7 +49,7 @@ url: "" # the base hostname & protocol for your site
 twitter_url:
 facebook_url: https://www.facebook.com/people/Navin-Ramsaroop/100012714816926
 googleplus_url:
-instagram_url: https://www.instagram.com/xnavin/?hl=en
+instagram_url:
 linkedin_url:
 github_url: https://github.com/navinramsaroop
 pinterest_url:
@@ -61,5 +61,5 @@ google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 
-theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections, aboutme]
